@@ -1,5 +1,6 @@
 # Filament Employee Management Project
 
+![Image dashboard](https://raw.githubusercontent.com/ousseynou98/simple_employee_management_app/main/public/img/Dashboard-Filament.png)
 ![Image de connexion](https://raw.githubusercontent.com/ousseynou98/simple_employee_management_app/main/public/img/login.png)
 
 This project is a small application using Filament for employee management. It allows you to store information about employees, including their country of origin, region, age, and more.
