@@ -19,12 +19,12 @@ Before you can run this project locally, make sure you have the following instal
 1. Clone this repository to your machine:
 
    ```bash
-   git clone https://github.com/your-user/filament-employee-project.git
+   git clone https://github.com/ousseynou98/simple_employee_management_app.git
 
 2. Navigate to the project directory:
 
     ```bash
-    cd filament-employee-project
+    cd simple_employee_management_app
 
 3. Install project dependencies using Composer:
 
@@ -54,6 +54,7 @@ Before you can run this project locally, make sure you have the following instal
     php artisan serve
 
 Contributors
+
 El hadji ousseynou DJITE
 
 If you'd like to contribute to this project, feel free to open issues, propose pull requests, or improve the documentation.
